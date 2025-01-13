@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="Chủ tịch - Mr.Thạch" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="672" y="205.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="672" y="290" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M4nOvyysWtgyD7zmqKPc-73" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;strokeColor=#23445D;strokeWidth=4;" edge="1" parent="1" source="3" target="5">
           <mxGeometry relative="1" as="geometry">
@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3" value="Tổng giám đốc - Mr.Trường" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="662" y="345.5" width="220" height="60" as="geometry" />
+          <mxGeometry x="662" y="430" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Kế toán + Pháp chế&#xa;Ms.Quỳnh Anh + Hiền" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1190" y="615.5" width="174.5" height="60" as="geometry" />
